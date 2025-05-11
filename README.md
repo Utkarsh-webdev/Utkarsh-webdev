@@ -37,9 +37,9 @@ Currently focused on mastering **JavaScript, React, Node.js**, and everything in
 
 ## 📈 GitHub Stats
 
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utkarsh-webdev&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-webdev&layout=compact&theme=tokyonight)
 
 ---
 
