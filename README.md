@@ -12,7 +12,7 @@
 - 🌱 Learning React, Node.js & Full-Stack Development
 - 🛠️ Building real-world projects & exploring design + development synergy
 - 💡 Always excited to solve problems & collaborate on cool ideas
-- 📫 Let's connect: [LinkedIn](https://linkedin.com/in/yourprofile) • [Twitter](https://twitter.com/yourhandle)
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/jhautkarsh27/) • [Twitter](https://twitter.com/yourhandle)
 
 ---
 
@@ -31,21 +31,22 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-webdev&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-webdev&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
 ---
 
 ### 📬 Let's Connect!
 <p align="center">
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Utkarsh-webdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jhautkarsh27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-_“Your portfolio is your ticket. Make it bold, beautiful, and 100% you.”_
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
+✨ *Thanks for visiting my GitHub profile! Let's build something amazing together.* ✨
