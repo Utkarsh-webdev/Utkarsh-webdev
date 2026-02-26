@@ -38,7 +38,7 @@
 |--------|-------------|-----------|------|
 | 🧩 **Pokédex App** | A responsive Pokédex using HTML, CSS & JS with real-time Pokémon API. | [Live](https://utkarsh-webdev.github.io/PokeDex/) | [Code](https://github.com/Utkarsh-webdev/PokeDex) |
 | 📝 **Quick Notes App** | A creative hand-drawn style notes app, built with vanilla JS. | [Live](https://utkarsh-webdev.github.io/Quick-notes-app/) | [Code](https://github.com/Utkarsh-webdev/Quick-notes-app) |
-| 📊 **Expense Tracker** *(In Progress)* | A unique tracker with responsive design and cool charts. | Coming Soon | Coming Soon |
+| 📊 **Expense Tracker** | A unique tracker with responsive design and cool charts. | [Live](https://utkarsh-webdev.github.io/smart-expense-tracker/) | [Code](https://utkarsh-webdev.github.io/smart-expense-tracker/) |
 
 > 🎯 More projects on the way—stay tuned!
 
@@ -67,7 +67,7 @@
 📫 Email: [utkarshjha832@gmail.com](mailto:utkarshjha832@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/jhautkarsh27](https://www.linkedin.com/in/jhautkarsh27/)  
 👨‍💻 GitHub: [github.com/Utkarsh-webdev](https://github.com/Utkarsh-webdev)  
-🌐 Portfolio: *Coming Soon!*
+🌐 Portfolio: [https://utkarsh-webdev.github.io/Portfolio-UK/](https://utkarsh-webdev.github.io/Portfolio-UK/)
 
 ---
 
